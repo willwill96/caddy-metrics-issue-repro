@@ -1,0 +1,1 @@
+# caddy-metrics-issue-repro
